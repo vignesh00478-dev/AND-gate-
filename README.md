@@ -24,10 +24,12 @@ A simple **AND gate circuit** constructed using two switches, an LED, a resistor
 6. Press the first switch while keeping the second switch OFF and observe the LED.  
 7. Press both switches together and observe that the LED glows.  
 8. Release either switch and observe that the LED turns OFF.
+### **SIMULATION**
 
-![][image1]
+![](simulation.jpg)
+### **RESULT**
 
-![][image2]
+![](result..jpg)
 
 ### **Notes**
 
